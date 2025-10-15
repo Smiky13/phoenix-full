@@ -1,5 +1,2 @@
-phoenix-full/
- ├─ src/
- ├─ index.html
- ├─ package.json
- ├─ .nvmrc   ← ici (avec "20")
+20
+
